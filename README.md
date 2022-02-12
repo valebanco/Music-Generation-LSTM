@@ -5,6 +5,5 @@ Lavoro di tesi sulla generazione musicale con approccio LSTM
 #### struttura della source directory
 
 ![](albero_sorgente.png)
-Lavoro di tesi sulla generazione musicale con approccio LSTM.
 
 
