@@ -1,7 +1,7 @@
 Keras==2.4.3
 matplotlib==3.3.2
 music21==6.3.0
-numpy==1.18.5
+numpy==1.19
 pandas==1.1.4
 scikit-learn==0.23.2
 tensorflow==2.9.3
